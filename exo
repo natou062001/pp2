@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Tp3</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+        <style>
+        
+            #intro {
+                color:black;
+                background-color: red;
+                padding: 5px;
+                border-style: solid;
+                border-width: 2px;
+                border-color: black;
+            }
+            h2.first {
+                color: blue;
+                background-color: goldenrod;
+                padding: 20px;
+                border-style: solid;
+                border-width: 2px;
+                border-color: blue;
+            }
+            h2.second {
+                color: blue;
+                background-color: goldenrod;
+            }
+            h2.third {
+                color: blue;
+                background-color: goldenrod;
+            }
+            h2.fourth {
+                color: blue;
+                background-color: goldenrod;
+            }
+            h1.second {
+                color: blue;
+                background-color: goldenrod;
+                padding: 20px;
+                border-style: solid;
+                border-width: 2px;
+                border-color: blue;
+            }
+
+        </style>
+    </head>
+    <body>
+        <img src="" alt="">
+        <div id="intro">
+            <input type="checkbox">
+          <h1 class="first" align="center"><strong>PROCESSU CRUORIS </br>PLACENTIA PATER PATER.</strong></h1>
+        </div>
+        <h2 class="first" align="2px">Martinus agens</h2>
+        <section>
+            <h2 class="second" align="2px"><i>Laodicia non internis</i></h2>
+            <ol>
+                <li>At nunc si ad aliquem bene nummatum tumentemque</li>
+                <ol>
+                    <li>Superatis Tauri montis verticibus qui ad solis</li>
+                    <ol>
+                        <li>Inter quos Paulus eminabet notarius ortus in</li>
+                        <li>Saepissime igitur mihi de amicitia cogitanti</li>
+                    </ol>
+                    <li>Postremo ad id indignittatis est ventum, ut cum</li>
+                </ol>
+                <li>Superatis Tauri montis verticibus qui ad solis</li>
+            </ol>
+            <h2 class="third" align="2px"><i>Pro dedit consule mora ex</i></h2>
+        </section>
+        <p><strong>E</strong>t quoniam inedia gravi adflictabantur, locum petivere Paleas nomine, vergentem in mare, valido muro firmatum, ubi conductur </br>nunc usque commeatus distribui militibus omne latus Isauriae defendentibus adsueti</p>
+        <h1 class="second" align="2px">Lis igitur est</h1>
+        <section>
+            <h2 class="fourth" align="2px">Interscindit attolluntur omnibus viget uberi.</h2>
+        </section>
+        <p><strong>C</strong>ircumstetere igitur hoc munimentum per triduum et trinoctium et cum neque adelivitas ipsa sine discrimine adiri letali, nec</p>
+
+    </body>
+</html>
